@@ -39,17 +39,9 @@ Interested in and working on <b>full-stack scalable systems</b> and <b>Web3 / Et
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Srinidhi444&theme=dark&background=0D1117&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E" height="180" alt="streak" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinidhi444&layout=compact&langs_count=8&bg_color=0D1117&hide_border=true&text_color=E6EDF3&title_color=22D3EE" height="180" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinidhi444&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&hide_border=true&text_color=E6EDF3&title_color=22D3EE&icon_color=22D3EE" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinidhi444&theme=github_dark&show_icons=true&hide_border=true&count_private=true&title_color=22D3EE&icon_color=22D3EE&text_color=E6EDF3&bg_color=0D1117" height="180" alt="stats" />
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinidhi444&bg_color=0D1117&color=22D3EE&line=818CF8&point=22D3EE&area=true&area_color=1e1b4b&hide_border=true" alt="activity graph" />
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:0E7490,100:6D28D9&height=120&section=footer" />

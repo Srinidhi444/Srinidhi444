@@ -36,10 +36,5 @@ Interested in and working on <b>full-stack scalable systems</b> and <b>Web3 / Et
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinidhi444&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=E6EDF3&count_private=true" alt="stats" />
-</p>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:0E7490,100:6D28D9&height=120&section=footer" />

@@ -33,6 +33,12 @@ I build full-stack applications and dig into the systems underneath them — mat
 
 <br/>
 
+### Experience
+
+**Frontend Engineer Intern, Voxket AI** (Remote) — Shipped production frontend features in Next.js/React/TypeScript and published an npm package for a WhatsApp click-to-chat widget (phone number → shareable link + QR code), now used in enterprise workflows including a banking sector website.
+
+<br/>
+
 ### Currently
 
 Learning system design in depth, building distributed systems projects, and looking for full-stack / backend roles.

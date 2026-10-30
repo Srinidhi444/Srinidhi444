@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Srinidhi Kulkarni</h1>
 <p align="center">Full-Stack Developer • Backend Engineering • Distributed Systems</p>
 
@@ -44,4 +44,3 @@ Learning **System Design** and **Distributed Systems** in depth, exploring **Dat
 <p align="center">
   <b>Open to full-stack / backend engineering opportunities — you can hire me now!</b>
 </p>
-```

@@ -31,6 +31,20 @@ I'm a full-stack developer with a stronger focus on backend engineering. I enjoy
 
 <br/>
 
+
+### Open Source
+
+Actively contributing to open-source projects, with **15+ pull requests raised and 12 merged** across:
+
+- **[Processing Foundation (p5.js)](https://github.com/processing/p5.js)** — Creative coding library for JavaScript.
+- **[Corsair](https://github.com/corsair)** (YC W25) — Open-source contributions.
+- **[Nano Collective (Nanocoder)](https://github.com/Nano-Collective/nanocoder)** — AI-powered coding agent.
+
+Contributions include bug fixes, performance optimizations, cross-platform compatibility improvements, and test coverage enhancements.
+
+<br/>
+
+
 ### Currently
 
 Learning **System Design** and **Distributed Systems** in depth, exploring **Database Internals**, building backend infrastructure projects, and contributing to open source.

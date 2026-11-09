@@ -34,7 +34,7 @@ I'm a full-stack developer with a stronger focus on backend engineering. I enjoy
 
 ### Open Source
 
-Actively contributing to open-source projects, with **15+ pull requests raised and 12 merged** across:
+Actively contributing to open-source projects, with **15+ prs merged** across:
 
 - **[Processing Foundation (p5.js)](https://github.com/processing/p5.js)** — Creative coding library for JavaScript.
 - **[Corsair](https://github.com/corsair)** (YC W25) — Open-source contributions.
